@@ -1,10 +1,3 @@
-### 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-* {
-  font-family: 'Montserrat', sans-serif;
-}
-</style>
 <a href="https://joshuaw.de"><img src="https://img.shields.io/badge/Website-joshuaw.de-blue"/></a>
 
 ### About me
