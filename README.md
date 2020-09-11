@@ -1,4 +1,25 @@
-### Hi there 👋
+### 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+</style>
+<a href="https://joshuaw.de"><img src="https://img.shields.io/badge/Website-joshuaw.de-blue"/></a>
+
+### About me
+<p>
+Hi, my name is Joshua Wiegmann and I am a software developer from Hannover (Germany). Actually I am a Java developer, but I am on my way to become a fullstack developer. Currently I'm working on the basics of frontend development and try to lay a good foundation for my further frontend path.
+
+
+
+<!-- Wer bin ich, was kann ich, wo will ich hin -->
+
+<!-- Stärkenprofil als Bild? -->
+
+<!-- Link zur Website -->
+
+<!-- Form für Kontakt? -->
 
 <!--
 **joxw1/joxw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
