@@ -2,6 +2,8 @@
 
 <a href="https://joshuaw.de"><img src="https://img.shields.io/badge/Website-joshuaw.de-blue"/></a>
 
+<a href="https://linkedin.com/in/joshuawiegmann"><img src="https://img.shields.io/badge/LinkedIn-joshuawiegmann-blue"/></a>
+
 ### Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
