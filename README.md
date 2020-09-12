@@ -1,5 +1,5 @@
 ## Hi! I'm Joshua 👋 
-![Website](https://img.shields.io/badge/Website-joshuaw.de-blue)
+![Website](https://img.shields.io/badge/Website-joshuaw.de-blue?style=flat-square)
 ![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)
 
 ### Tech Stack
