@@ -1,8 +1,6 @@
 ## Hi! I'm Joshua 👋 
-
-<a href="https://joshuaw.de"><img src="https://img.shields.io/badge/Website-joshuaw.de-blue"/></a>
-
-<a href="https://linkedin.com/in/joshuawiegmann"><img src="https://img.shields.io/badge/LinkedIn-joshuawiegmann-blue"/></a>
+![Website](https://img.shields.io/badge/Website-joshuaw.de-blue)
+![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)
 
 ### Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
