@@ -1,6 +1,3 @@
-[!["Buy me some love ❤️"](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Buy%20me%20some%20love-blue)](https://www.buymeacoffee.com/daschaa)
-
-
 ## Hi! I'm Joshua 👋 
 [![Website](https://img.shields.io/badge/Website-joshuaw.de-blue?style=flat-square)](https://joshuaw.de)
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joshuawiegmann/)
@@ -14,3 +11,5 @@
 
 ### Currently working on..
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazonaws&logoColor=%23000000&labelColor=%23FF9900&color=%23FF9900)
+
+[!["Buy me some love ❤️"](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Buy%20me%20some%20love-blue)](https://www.buymeacoffee.com/daschaa)
