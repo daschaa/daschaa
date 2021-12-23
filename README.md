@@ -12,4 +12,7 @@
 ### Currently working on..
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazonaws&logoColor=%23000000&labelColor=%23FF9900&color=%23FF9900)
 
+### Contributions
+[![React-Native](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)](https://github.com/facebook/react-native/commits?author=daschaa)
+
 [!["Buy me some love ❤️"](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Buy%20me%20some%20love-blue)](https://www.buymeacoffee.com/daschaa)
