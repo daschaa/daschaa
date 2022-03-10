@@ -15,7 +15,9 @@
 ### 🏋🏻 Contributions
 [![React-Native](https://camo.githubusercontent.com/04a726a18be5d3cd4ce27aa0323548e5ded19d68efb98952836f40a914b91e99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d2d4e61746976652d2532333238324333343f7374796c653d666c61742d737175617265266c6f676f3d7265616374)](https://github.com/facebook/react-native/commits?author=daschaa)
 
-### 
+### 🥇 Certifications
+
+- [AWS Cloud Practitioner](https://raw.githubusercontent.com/daschaa/certificates/main/certified-cloud-practitioner-certificate.pdf)
 
 #### ❤️ Support me 
 [!["Buy me some love ❤️"](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Buy%20me%20some%20love-blue)](https://www.buymeacoffee.com/daschaa)
