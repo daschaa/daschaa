@@ -17,7 +17,7 @@
 
 ### 🥇 Certifications
 
-- [AWS Cloud Practitioner](https://raw.githubusercontent.com/daschaa/certificates/main/certified-cloud-practitioner-certificate.pdf)
+[AWS Cloud Practitioner](https://raw.githubusercontent.com/daschaa/certificates/main/certified-cloud-practitioner-certificate.pdf)
 
 #### ❤️ Support me 
 [!["Buy me some love ❤️"](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F-Buy%20me%20some%20love-blue)](https://www.buymeacoffee.com/daschaa)
