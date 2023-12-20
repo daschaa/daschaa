@@ -6,6 +6,8 @@
   
 </div>
 <br>
+<!--
 <div align="center">
   <img src="https://media0.giphy.com/media/9MtixQSzE7HJ6/giphy.gif?cid=ecf05e478dyw2rhfcll3sk5aylzprhggxun9u2so65nst2yv&rid=giphy.gif&ct=g"/>
 </div>
+-->
